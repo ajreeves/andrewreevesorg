@@ -9,6 +9,6 @@ featured: false
 publication: "*Washington Post*"
 [[url_custom]]
     name: "Custom Link"
-    url : "https://www.washingtonpost.com/politics/2020/03/26/if-trump-took-responsibility-coronavirus-missteps-it-might-actually-help-him/"
+    url : https://www.washingtonpost.com/politics/2020/03/26/if-trump-took-responsibility-coronavirus-missteps-it-might-actually-help-him/
 ---
 

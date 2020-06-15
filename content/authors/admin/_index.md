@@ -68,7 +68,7 @@ email: "reeves@wustl.edu"
 # user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 Andrew Reeves is associate professor and associate chair in the [Department of Political Science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a research fellow at the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu).
 

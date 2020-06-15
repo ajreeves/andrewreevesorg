@@ -93,8 +93,6 @@ phone = "314/441-6186"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Mailing address: THis that", city = "St. Louis", region = "MO", postcode = "63130", country = "United States", country_code = "US"}
-
 address = {street = "Harry and Susan Siegle Hall", city = "St. Louis", region = "MO", postcode = "63130", country = "United States", country_code = "US"}
 
 # Geographic coordinates

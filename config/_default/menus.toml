@@ -39,3 +39,8 @@
     name = "DATAVERSE"
     url = "https://dataverse.harvard.edu/dataverse/areeves"
     weight = 70
+
+ [[main]]
+    name = "IN THE NEWS"
+    url = "news/"
+    weight = 80

@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*American Journal of Political Science*"
+url_dataset: https://doi.org/10.7910/DVN/XRJ43D
 ---
 

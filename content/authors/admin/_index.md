@@ -59,6 +59,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: dataverse
+  icon_pack: ai
+  link: https://dataverse.harvard.edu/dataverse/areeves
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "reeves@wustl.edu"

@@ -74,6 +74,6 @@ Andrew Reeves is associate professor and associate chair in the [Department of P
 
 He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) within the [Institution for Social and Policy Studies](https://isps.yale.edu) at [Yale University](https://yale.edu).
 
-He studies elections, public opinion, and executive politics. His research examines the interchange between institutions and behavior with a focus on political accountability and public policy in the United States and has appeared in the _American Political Science Review_, the _American Journal of Political Science_, and the _Journal of Politics_, among other outlets.
+He studies elections, public opinion, and executive politics. His research examines the interchange between institutions and behavior with a focus on political accountability and public policy in the United States and has appeared in the _American Political Science Review_, the _American Journal of Political Science_, and the _Journal of Politics_, among other outletsTEST.
 
 His first book, _The Particularistic President: Executive Branch Politics and Political Inequality_ with [Douglas Kriner](http://blogs.cornell.edu/kriner/) is the winner of the 2016 Richard E. Neustadt Award ( [Amazon](https://www.amazon.com/Douglas-L-Kriner/dp/1107616816/) | [CUP](https://www.cambridge.org/core/books/particularistic-president/1C2686B436BCBFAB3D46EDBD7C2A17C3) ).

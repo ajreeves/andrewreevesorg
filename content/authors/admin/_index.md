@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Andrew Reeves is associate professor and associate chair in the Department of Political Science at Washington University in St. Louis. He is also a research fellow at the Weidenbaum Center on the Economy, Government, and Public Policy and an affiliated faculty member in the Division of Computational and Data Sciences.
+Andrew Reeves is associate professor and associate chair in the [Department of Political Science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a research fellow at the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu).
 
-He has held research fellowships at the Hoover Institution at Stanford and at the Center for the Study of American Politics within the Institution for Social and Policy Studies at Yale University.
+He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford](https://stanford.edu) and at the Center for the Study of American Politics within the Institution for Social and Policy Studies at Yale University.
 
-He studies elections, public opinion, and executive politics. His research examines the interchange between institutions and behavior with a focus on political accountability and public policy in the United States and has appeared in the American Political Science Review, the American Journal of Political Science, and the Journal of Politics, among other outlets. He received my Ph.D. from the Department of Government at Harvard where he was an associate of the Institute for Quantitative Social Science.
+He studies elections, public opinion, and executive politics. His research examines the interchange between institutions and behavior with a focus on political accountability and public policy in the United States and has appeared in the American Political Science Review, the American Journal of Political Science, and the Journal of Politics, among other outlets. He received my Ph.D. from the Department of Government at Harvard where he was an associate of the [Institute for Quantitative Social Science](http://iq.harvard.edu).

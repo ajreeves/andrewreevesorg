@@ -13,10 +13,10 @@ header:
   caption: ""
   image: ""
 ---
-# Undergraduate Teaching
-## Introduction to American Politics
-## Business of Electinos
+## Undergraduate Teaching
+### Introduction to American Politics
+### Business of Electinos
 
-# Graduate Teaching
-## Elections
-## Executive Politics
+## Graduate Teaching
+### Elections
+### Executive Politics

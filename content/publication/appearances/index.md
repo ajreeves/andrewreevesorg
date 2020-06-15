@@ -7,6 +7,5 @@ publication_types: ["2"]
 abstract: "We examine county-level campaign appearances by the Republican and Democratic tickets during the 2008 general election. Our analysis reveals that the McCain-Palin ticket campaigned in a way that was quite different from the Obama-Biden ticket. McCain-Palin pursued a “base” strategy that was focused on counties where Bush-Cheney performed well in 2004. They also stayed away from counties that showed vote swings from 2000 to 2004 or population growth. On the other hand, the performance of the Kerry- Edwards ticket in 2004 was a very weak predictor of where Obama-Biden campaigned in 2008. They pursued a “peripheral” strategy that targeted counties that had experienced significant population growth. Their efforts to target peripheral, rather than base constituencies, have significant implica- tions for our understanding of presidential campaign strategy."
 featured: false
 publication: "*American Politics Research*"
-dataverse:  https://doi.org/10.7910/DVN/0XTAAU
 ---
 

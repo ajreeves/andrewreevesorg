@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Washington Post*"
+url: https://www.washingtonpost.com/politics/2020/03/26/if-trump-took-responsibility-coronavirus-missteps-it-might-actually-help-him/
 ---
 

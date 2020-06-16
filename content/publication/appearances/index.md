@@ -8,5 +8,7 @@ abstract: "We examine county-level campaign appearances by the Republican and De
 featured: false
 publication: "*American Politics Research*"
 url_dataset:  https://doi.org/10.7910/DVN/0XTAAU
+url_pdf: "papers/appearances.pdf"
+
 ---
 

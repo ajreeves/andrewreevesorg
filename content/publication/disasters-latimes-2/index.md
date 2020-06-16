@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Los Angeles Times*"
+url_pdf: "papers/disasters-latimes2.pdf"
 ---
 

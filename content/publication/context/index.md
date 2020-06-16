@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Political Science Research and Methods*"
 url_dataset: https://doi.org/10.7910/DVN/G3YJXY
+url_pdf: "papers/context.pdf"
 ---
 

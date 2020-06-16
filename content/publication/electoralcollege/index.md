@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Boston University Law Review*"
+url_pdf: "papers/electoralcollege.pdf"
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Oxford Research Encyclopedia of Politics*"
+url_pdf: "papers/crisis.pdf"
 ---
 

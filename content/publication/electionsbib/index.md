@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Oxford Bibliographies in Political Science*"
+url_pdf: "papers/electionsbib.pdf"
 ---
 

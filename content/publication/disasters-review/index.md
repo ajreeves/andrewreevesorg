@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Emerging Trends in the Behavioral and Social Science*"
+url_pdf: "papers/disasters-review.pdf"
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Analytics, Policy and Governance*"
+url_pdf: "papers/geolocation.pdf"
 ---
 

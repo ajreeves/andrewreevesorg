@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor and Associate Chair of Political Science
+role: Associate Professor and Associate Chair, Department of Political Science
 
 # Organizations/Affiliations
 organizations:

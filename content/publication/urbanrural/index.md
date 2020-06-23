@@ -8,5 +8,6 @@ abstract: "Urban–rural differences in partisan political loyalty are as famili
 featured: false
 publication: "*Political Behavior*"
 url_dataset: https://doi.org/10.7910/DVN/IYBIUP
+url_pdf: "papers/urbanrural.pdf"
 ---
 

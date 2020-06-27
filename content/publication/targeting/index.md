@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*American Political Science Review*"
+url_pdf: "papers/targeting.pdf"
 ---
 

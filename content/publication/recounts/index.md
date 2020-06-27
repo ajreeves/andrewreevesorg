@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Confirming Elections: Creating Confidence and Integrity through Election Auditing*"
+url_pdf: "papers/recounts.pdf"
 ---
 

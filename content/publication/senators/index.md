@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Legislative Studies Quarterly*"
+url_pdf: "papers/senators.pdf"
 ---
 

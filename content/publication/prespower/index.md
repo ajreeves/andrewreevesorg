@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Presidential Studies Quarterly*"
+url_pdf: "papers/prespower.pdf"
 ---
 

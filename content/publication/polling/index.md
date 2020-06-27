@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*PS: Political Science & Politics*"
+url_pdf: "papers/polling.pdf"
 ---
 

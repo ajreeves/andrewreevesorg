@@ -12,4 +12,7 @@ view: 4
 header:
   caption: ""
   image: ""
+
+{{ partial "statcounter.html" . }}
+
 ---

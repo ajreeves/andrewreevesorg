@@ -8,5 +8,6 @@ abstract: "How does local unemployment influence presidential elections? Some ar
 featured: false
 publication: "*Political Behavior*"
 url_dataset: https://doi.org/10.7910/DVN/V8DLYR
+url_pdf: "papers/unemployment.pdf"
 ---
 

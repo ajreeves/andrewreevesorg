@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Presidential Studies Quarterly*"
-url_pdf = "papers/prespart.pdf"
+url_pdf: "papers/prespart.pdf"
 ---
 

@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: reevescv.pdf
 - icon: dataverse
   icon_pack: ai
   link: https://dataverse.harvard.edu/dataverse/areeves

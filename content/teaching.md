@@ -14,11 +14,11 @@ header:
   image: ""
 ---
 ## Undergraduate Teaching
-* American Politics: An Introduction [syllabus](https://docs.google.com/document/d/16qg9TZ1PjMPy--vgOvk4Suf1QCTFX8ji0H2CEFQ-ewc/edit?usp=sharing)
+* **American Politics: An Introduction**,  [syllabus](https://docs.google.com/document/d/16qg9TZ1PjMPy--vgOvk4Suf1QCTFX8ji0H2CEFQ-ewc/edit?usp=sharing)
 
-* Business of Electinos
+* **Business of Elections** (cotaught with [Steve Malter](https://olinwustl.campusgroups.com/bsba/contact-us/))
 
 ## Graduate Teaching
-* Elections
-* Executive Politics
-* Research Design
+* **Elections**
+* **Executive Politics**
+* **Research Design**

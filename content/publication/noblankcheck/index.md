@@ -1,5 +1,5 @@
 ---
-title: "No Blank Check: Public Constraints on Presidential Unilateral Power"
+title: "No Blank Check: Why the Public Dislikes Presidential Power and What It Means for Governing"
 date: In Progress-01-01
 publishDate: 2020-06-15T00:39:44.427198Z
 authors: ["Andrew Reeves", "Jon C. Rogowski"]

@@ -6,6 +6,6 @@ authors: ["Andrew Reeves", "Jon C. Rogowski"]
 publication_types: ["5"]
 abstract: ""
 featured: false
-publication: "*under advanced contract at Cambridge University Press*"
+publication: "Cambridge University Press"
 ---
 

@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Washington Post*"
-url_pdf: "papers/mc_blame.pdf"
+url_pdf: "papers/mc-blame.pdf"
 ---
 

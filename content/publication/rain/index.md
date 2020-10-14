@@ -1,7 +1,6 @@
 ---
-aliases = [
-    "/sites/default/files/rain.pdf"
-]
+aliases:
+    - /sites/default/files/rain.pdf
 
 title: "Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters"
 date: 2011-01-01

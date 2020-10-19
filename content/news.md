@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-
+* [Ronald J. Hansen. October 18.2020. "President Donald Trump is set to visit Prescott, Tucson. Here's why."._Arizona Republic._](https://www.azcentral.com/story/news/politics/arizona/2020/10/18/president-donald-trump-set-visit-prescott-tucson-heres-why/3683937001/)
 *   [Gregory Korte and Matthew Boesler. April 14, 2020\. “Trump’s Key 2020 States Reel Under Twin Blows of Virus, Jobb Loss.” _Bloomberg._](https://www.bloomberg.com/news/articles/2020-04-14/trump-re-election-imperiled-as-coronavirus-hits-key-states)
 *   [Annie Lowrey. April 3, 2020\. “The Economy is Collapsing. So Are Trump’s Reelection Chances.” _The Atlantic._](https://www.theatlantic.com/ideas/archive/2020/04/most-important-number-trumps-re-election-chances/609376/)
 *   [Andrew Reeves. April 1, 2020\. “This pandemic is a test for leaders. Voters do the grading.” _Saint Louis Dispatch_.](https://www.stltoday.com/opinion/columnists/andrew-reeves-this-pandemic-is-a-test-for-leaders-voters-do-the-grading/article_80a024d0-8128-5d4a-809a-122d594e517a.html)

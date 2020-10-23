@@ -1,4 +1,7 @@
 ---
+aliases:
+    - /sites/default/files/fema.pdf
+
 title: "Political Disaster: Unilateral Powers, Electoral Incentives, and Presidential Disaster Declarations"
 date: 2011-01-01
 publishDate: 2020-06-15T00:39:44.424446Z

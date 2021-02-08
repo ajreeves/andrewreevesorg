@@ -1,6 +1,6 @@
 ---
 title: "Pass the Buck or the Buck Stops Here? The Effectiveness of Claiming and Deflecting Blame by Elected Executives"
-date: Forthcoming-01-01
+date: 2021-02-08
 publishDate: 2021-02-08T00:39:44.405403Z
 authors: ["David Miller", "Andrew Reeves"]
 publication_types: ["2"]

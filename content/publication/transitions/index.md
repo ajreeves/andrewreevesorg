@@ -1,7 +1,7 @@
 ---
 title: "Partisanship, Economic Assessments, and Presidential
 Accountability"
-date: Forthcoming-10-28
+date: 2021-04-21
 publishDate: 2020-06-15T00:39:44.410136Z
 authors: ["Zoe Ang", "Andrew Reeves", "Jon C. Rogowski", "Arjun Vishwanath"]
 publication_types: ["2"]

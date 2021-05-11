@@ -1,6 +1,5 @@
 ---
-title: "Unilateral Inaction: Congressional Gridlock, Interbranch Con￿ict, and Public Evaluations of
-Executive Power"
+title: "Unilateral Inaction: Congressional Gridlock, Interbranch Conflict, and Public Evaluations of Executive Power"
 date: InProgress-12-31
 publishDate: 2020-12-31T00:39:44.405403Z
 authors: ["Andrew Reeves", "Jon C. Rogowski"]

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor and Associate Chair, Department of Political Science, Washington University in St. Louis
+role: Professor and Associate Chair, Department of Political Science, Washington University in St. Louis
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ email: "reeves@wustl.edu"
 #- Visitors
 ---
 
-Andrew Reeves is associate professor and associate chair in the [Department of Political Science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a research fellow at the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
+Andrew Reeves is professor and associate chair in the [Department of Political Science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a research fellow at the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
 
 He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) within the [Institution for Social and Policy Studies](https://isps.yale.edu) at [Yale University](https://yale.edu).
 

@@ -13,6 +13,10 @@ header:
   caption: ""
   image: ""
 ---
+* [David Ryan Miller and Andrew Reeves. June 16, 2021."Biden’s Supreme Court commission probably won’t sway public opinion." _The Conversation_.]()
+* [Sarah Savat. April 8, 2021. "Executive orders come ‘at great cost’." _The Source._](https://source.wustl.edu/2021/04/washu-expert-executive-orders-come-at-great-cost/)
+* [Elaine Godfrey. February 24, 2021. "Texas’s Disaster Is Over. The Fallout Is Just Beginning." _The Atlantic_.](https://www.theatlantic.com/politics/archive/2021/02/what-texas-energy-crisis-means-democrats/618127/)
+* [Julie Kennedy. February 22, 2021. "New course studies the business of politics." _Washington Magazine_.](https://source.wustl.edu/2021/02/new-course-studies-presidential-campaigns-in-tumultuous-year/)
 * [Ronald J. Hansen. October 18.2020. "President Donald Trump is set to visit Prescott, Tucson. Here's why."_Arizona Republic._](https://www.azcentral.com/story/news/politics/arizona/2020/10/18/president-donald-trump-set-visit-prescott-tucson-heres-why/3683937001/)
 * [Sara Savat. October 16, 2020. "2020 election talk: Congressional races." _The Source._](https://source.wustl.edu/2020/10/2020-election-talk-congressional-races/)
 * [Andrew Duehren and  Siobhan Hughes. September 19, 2020. "Trump’s Targeted Moves Seek to Shore Up Support for GOP Senators" _The Wall Street Journal_.](https://www.wsj.com/articles/trumps-targeted-moves-seek-to-shore-up-support-for-gop-senators-11600520400)

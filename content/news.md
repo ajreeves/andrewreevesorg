@@ -13,7 +13,8 @@ header:
   caption: ""
   image: ""
 ---
-* [David Ryan Miller and Andrew Reeves. June 16, 2021."Biden’s Supreme Court commission probably won’t sway public opinion." _The Conversation_.]()
+*[Saranac Hale Spencer. October 7, 2021. "SciCheck’s COVID-19/Vaccination Project." _FactCheck.org_.](https://www.factcheck.org/2021/10/scicheck-white-house-and-hhs-employees-arent-exempt-from-vaccine-mandate/)
+* [David Ryan Miller and Andrew Reeves. June 16, 2021."Biden’s Supreme Court commission probably won’t sway public opinion." _The Conversation_.](https://theconversation.com/bidens-supreme-court-commission-probably-wont-sway-public-opinion-159658)
 * [Sarah Savat. April 8, 2021. "Executive orders come ‘at great cost’." _The Source._](https://source.wustl.edu/2021/04/washu-expert-executive-orders-come-at-great-cost/)
 * [Elaine Godfrey. February 24, 2021. "Texas’s Disaster Is Over. The Fallout Is Just Beginning." _The Atlantic_.](https://www.theatlantic.com/politics/archive/2021/02/what-texas-energy-crisis-means-democrats/618127/)
 * [Julie Kennedy. February 22, 2021. "New course studies the business of politics." _Washington Magazine_.](https://source.wustl.edu/2021/02/new-course-studies-presidential-campaigns-in-tumultuous-year/)

@@ -13,6 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+* [Eleanor Clift. December 14, 2021. "Devastating Tornadoes Give Biden One Last Chance to Bridge Red-Blue Rift." _The Daily Beast_](https://www.thedailybeast.com/devastating-tornadoes-give-biden-one-last-chance-to-bridge-red-blue-rift)
+* [Lawrence Lessig. December 10, 2021. "Why the US Is a Failed Democratic State" _New York Review of Books_](https://www.nybooks.com/daily/2021/12/10/why-the-us-is-a-failed-democratic-state/)
 * [Saranac Hale Spencer. October 7, 2021. "SciCheck’s COVID-19/Vaccination Project." _FactCheck.org_.](https://www.factcheck.org/2021/10/scicheck-white-house-and-hhs-employees-arent-exempt-from-vaccine-mandate/)
 * [David Ryan Miller and Andrew Reeves. June 16, 2021."Biden’s Supreme Court commission probably won’t sway public opinion." _The Conversation_.](https://theconversation.com/bidens-supreme-court-commission-probably-wont-sway-public-opinion-159658)
 * [Sarah Savat. April 8, 2021. "Executive orders come ‘at great cost’." _The Source._](https://source.wustl.edu/2021/04/washu-expert-executive-orders-come-at-great-cost/)

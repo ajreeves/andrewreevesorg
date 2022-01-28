@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor and Associate Chair, Department of Political Science, Washington University in St. Louis
+role: Professor and Associate Chair, Department of Political Science
 
 # Organizations/Affiliations
 organizations:

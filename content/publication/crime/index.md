@@ -9,7 +9,9 @@ publication: "*Public Opinion Quarterly*"
 url_dataset: https://doi.org/10.7910/DVN/0D89WX
 url_pdf: "papers/crime.pdf"
 links:
-- name: Web of Science Highly Cited Paper
-  url: 'http://www.andrewreeves.org'
+- name: Publisher
+  url: 'https://doi.org/10.1093/poq/nfab074'
+- name: Media
+  url:  'https://source.wustl.edu/2022/04/perception-matters-how-fear-about-crime-impacts-presidential-approval/'
 ---
 

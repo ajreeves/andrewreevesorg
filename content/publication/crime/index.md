@@ -7,5 +7,6 @@ abstract: "Americans are anxious about crime regardless of their actual exposure
 featured: false
 publication: "*Public Opinion Quarterly*"
 url_pdf: "papers/crime.pdf"
+url_dataset: https://doi.org/10.7910/DVN/0D89WX
 ---
 

@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor and Associate Chair, Department of Political Science
+role: Director of the Weidenbaum Center and Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
 - name: Washington University in St. Louis
   url: "http://www.wustl.edu"
+- name: Weidenbaum Center on the Economy, Government, and Public Policy
+  url: "http://wc.wustl.edu"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

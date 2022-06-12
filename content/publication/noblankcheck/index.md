@@ -1,6 +1,6 @@
 ---
 title: "No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power"
-date: 2022-09-01
+date: 2022-06-01
 authors: ["Andrew Reeves", "Jon C. Rogowski"]
 publication_types: ["5"]
 abstract: ""

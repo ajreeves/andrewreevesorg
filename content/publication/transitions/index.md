@@ -9,5 +9,12 @@ abstract: "Few issues are more salient for voters or more important in political
 featured: false
 publication: "American Journal of Political Science"
 url_pdf: "papers/transition.pdf"
+url_dataset: https://doi.org/10.7910/DVN/EZNXW1
+links:
+- name: Publisher
+  url: 'https://doi.org/10.1111/ajps.12659'
+- name: Media
+  url:  'https://source.wustl.edu/2021/10/partisanship-the-economy-and-presidential-accountability/'
+
 ---
 

@@ -8,6 +8,9 @@ abstract: "When things go wrong and the government may be to blame, the public r
 featured: false
 publication: "*Journal of Public Policy*"
 url_pdf: "papers/blameclaim.pdf"
+links:
+- name: Publisher
+  url: 'https://doi.org/10.1017/S0143814X21000039'
 
 ---
 

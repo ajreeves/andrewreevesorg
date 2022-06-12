@@ -31,13 +31,10 @@ education:
   courses:
   - course: PhD in Government
     institution: Harvard University
-    year: 2008
   - course: AM in Government
     institution: Harvard University
-    year: 2006
   - course: BA in Government and Politics
     institution: University of Maryland, College Park
-    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,7 +72,7 @@ email: "reeves@wustl.edu"
 #- Visitors
 ---
 
-Andrew Reeves is professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu) and the incoming director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu). He is also an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
+Andrew Reeves the director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
 
 He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) within the [Institution for Social and Policy Studies](https://isps.yale.edu) at [Yale University](https://yale.edu).
 

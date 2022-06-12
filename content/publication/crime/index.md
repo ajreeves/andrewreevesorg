@@ -7,7 +7,6 @@ abstract: "Americans are anxious about crime regardless of their actual exposure
 featured: false
 publication: "*Public Opinion Quarterly*"
 url_pdf: "papers/crime.pdf"
-url_custom = [{name = "Publisher", url = "https://academic.oup.com/poq/article-abstract/86/1/29/6530176?redirectedFrom=fulltext&login=false"}]
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0D89WX"
 ---
 

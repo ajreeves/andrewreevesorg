@@ -8,6 +8,6 @@ featured: false
 publication: "*Public Opinion Quarterly*"
 url_dataset: https://doi.org/10.7910/DVN/0D89WX
 url_pdf: "papers/crime.pdf"
-url_custom = [{name = "Publisher", url = "https://academic.oup.com/poq/article/86/1/29/6530176?login=true"}]
+links = [{name="name_you_want",url="https://academic.oup.com/poq/article/86/1/29/6530176?login=true"}]
 ---
 

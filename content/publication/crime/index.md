@@ -8,6 +8,8 @@ featured: false
 publication: "*Public Opinion Quarterly*"
 url_dataset: https://doi.org/10.7910/DVN/0D89WX
 url_pdf: "papers/crime.pdf"
-doi = "https://doi.org/10.1093/poq/nfab074"
+links:
+- name: Web of Science Highly Cited Paper
+  url: 'http://www.andrewreeves.org'
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*The Future of Election Administration*"
+url_pdf: "papers/access.pdf"
 ---
 

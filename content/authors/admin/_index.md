@@ -72,7 +72,7 @@ email: "reeves@wustl.edu"
 #- Visitors
 ---
 
-Andrew Reeves the director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
+Andrew Reeves is the director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also an affiliated faculty member in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu) and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/).
 
 He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) within the [Institution for Social and Policy Studies](https://isps.yale.edu) at [Yale University](https://yale.edu).
 

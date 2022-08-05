@@ -4,9 +4,9 @@ date: 2015-06-12
 publishDate: 2020-06-15T00:39:44.412691Z
 authors: ["Douglas L. Kriner", "Andrew Reeves"]
 publication_types: ["5"]
-abstract: ""
+abstract: "As the holders of the only office elected by the entire nation, presidents have long claimed to be sole stewards of the interests of all Americans. Scholars have largely agreed, positing the president as an important counterbalance to the parochial impulses of members of Congress. This supposed fact is often invoked in arguments for concentrating greater power in the executive branch. Douglas L. Kriner and Andrew Reeves challenge this notion and, through an examination of a diverse range of policies from disaster declarations, to base closings, to the allocation of federal spending, show that presidents, like members of Congress, are particularistic. Presidents routinely pursue policies that allocate federal resources in a way that disproportionately benefits their more narrow partisan and electoral constituencies. Though presidents publicly don the mantle of a national representative, in reality they are particularistic politicians who prioritize the needs of certain constituents over others."
 featured: false
 publication: "*Cambridge University Press*"
-url_pdf: "papers/appearances.pdf"
+url_pdf: "papers/partpres.pdf"
 ---
 

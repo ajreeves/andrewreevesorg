@@ -8,5 +8,11 @@ abstract: "As the holders of the only office elected by the entire nation, presi
 featured: false
 publication: "*Cambridge University Press*"
 url_pdf: "papers/partpres.pdf"
+links:
+- name: CUP
+  url: 'https://www.cambridge.org/9781107616813'
+- name: Amazon
+  url:  'https://www.amazon.com/Particularistic-President-Executive-Political-Inequality/dp/1107616816'
+
 ---
 

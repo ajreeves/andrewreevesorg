@@ -13,6 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+* [Josh Boak. August 20, 2022. "For Republican governors, all economic success is local." _AP_.](https://apnews.com/article/biden-inflation-covid-health-greg-abbott-9a3cba6cd4bf72f2c86fdd539b120bf6)
+* [Sara Savat. April 18, 2022. "Perception matters: How fear about crime impacts presidential approval." _The Source_](https://source.wustl.edu/2022/04/perception-matters-how-fear-about-crime-impacts-presidential-approval/)
+* [Charles Stewart III. May 28, 2022. "Republicans want to hand-count paper ballots. That’s less accurate." _Washington Post's the Monkeycage Blog_](https://www.washingtonpost.com/politics/2022/05/26/republicans-democrats-midterms-elections-ballot-counting/)
 * [Eleanor Clift. December 14, 2021. "Devastating Tornadoes Give Biden One Last Chance to Bridge Red-Blue Rift." _The Daily Beast_.](https://www.thedailybeast.com/devastating-tornadoes-give-biden-one-last-chance-to-bridge-red-blue-rift)
 * [Lawrence Lessig. December 10, 2021. "Why the US Is a Failed Democratic State" _New York Review of Books_.](https://www.nybooks.com/daily/2021/12/10/why-the-us-is-a-failed-democratic-state/)
 * [Saranac Hale Spencer. October 7, 2021. "SciCheck’s COVID-19/Vaccination Project." _FactCheck.org_.](https://www.factcheck.org/2021/10/scicheck-white-house-and-hhs-employees-arent-exempt-from-vaccine-mandate/)

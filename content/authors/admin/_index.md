@@ -53,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ajreeves
+- icon: mastodon
+  icon_pack:fab
+  link: https://mastodon.social/@andrewreeves
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

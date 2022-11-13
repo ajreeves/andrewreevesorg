@@ -13,6 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+* [Shawn Ballard. October 5, 2022. "When presidential power meets public opinion." _The Ampersand_](https://artsci.wustl.edu/ampersand/when-presidential-power-meets-public-opinion)
+* [Jorge Agobian, and Patsy Widakuswara. October 5, 2022. "Biden Surveys Hurricane Damage in Florida Amid Tension With Governor." _Voice of America_](https://www.voanews.com/a/biden-to-survey-hurricane-ian-damage-in-florida/6776635.html)
+* [Domenico Montanaro. October 1, 2022. "How local and national leaders are tested by major natural disasters." _NPR_.](https://www.npr.org/2022/10/01/1126239235/politics-natural-disasters-desantis-hurricane-ian)
 * [Josh Boak. August 20, 2022. "For Republican governors, all economic success is local." _AP_.](https://apnews.com/article/biden-inflation-covid-health-greg-abbott-9a3cba6cd4bf72f2c86fdd539b120bf6)
 * [Sara Savat. April 18, 2022. "Perception matters: How fear about crime impacts presidential approval." _The Source_](https://source.wustl.edu/2022/04/perception-matters-how-fear-about-crime-impacts-presidential-approval/)
 * [Charles Stewart III. May 28, 2022. "Republicans want to hand-count paper ballots. That’s less accurate." _Washington Post's the Monkeycage Blog_](https://www.washingtonpost.com/politics/2022/05/26/republicans-democrats-midterms-elections-ballot-counting/)

@@ -100,7 +100,7 @@ address = {street = "Harry and Susan Siegle Hall", city = "St. Louis", region = 
 coordinates = {latitude = "38.649016", longitude = "-90.312513"}
 
 # Directions for visitors to locate you.
-directions = "Enter the main (east facing) entrance of Seigle Hall, go to the left and enter the Weidenbaum Center (Seigle #170). My office is at the end of the hallway (Seigle #191)."
+directions = "Enter the main entrance of Seigle Hall, go to the left and enter the Weidenbaum Center (Seigle #170). My office is at the end of the hallway (Seigle #191)."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

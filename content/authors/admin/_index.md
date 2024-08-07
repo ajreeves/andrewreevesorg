@@ -18,6 +18,8 @@ organizations:
   url: "http://www.wustl.edu"
 - name: Weidenbaum Center on the Economy, Government, and Public Policy
   url: "http://wc.wustl.edu"
+- name: Hoover Institution
+  url: "http://www.hoover.org"
 - name: Taylor Geospatial Institute
   url: "https://taylorgeospatial.org/"
 

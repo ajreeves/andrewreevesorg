@@ -10,7 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Director of the Weidenbaum Center and Professor of Political Science
+role: 
+- name: Director of the Weidenbaum Center and Professor of Political Science
+  url: "http://www.wc.wustl.edu"
+- name: Visiting Fellow at the Hoover Institution
+  url: "http://www.hoover.org"
 
 # Organizations/Affiliations
 organizations:

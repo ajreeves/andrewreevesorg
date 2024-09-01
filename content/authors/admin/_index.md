@@ -31,6 +31,9 @@ interests:
 - Executive Politics
 - Elections
 - Representation and Accountability
+- Local Politics
+- Urban-Rural Divide
+- Environmental Politics
 
 education:
   courses:
@@ -84,6 +87,6 @@ Andrew Reeves is the director of the [Weidenbaum Center on the Economy, Governme
 
 He has held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) within the [Institution for Social and Policy Studies](https://isps.yale.edu) at [Yale University](https://yale.edu).
 
-He studies elections, public opinion, and executive politics. His research examines the interchange between institutions and behavior with a focus on political accountability and public policy in the United States. His work has appeared in the _American Political Science Review_, the _American Journal of Political Science_, and the _Journal of Politics_, among other outlets.
+His research investigates the intersections of American political institutions, electoral behavior, and public policy, particularly emphasizing the presidency and executive politics. He examines how political accountability and institutional design shape governance and policy outcomes, making significant contributions to understanding presidential power, voter behavior, and the urban-rural divide. Reeves' work demonstrates that modern presidencies often prioritize partisan and electoral interests, challenges the notion of public passivity toward executive power, and explores the factors driving political polarization. His research agenda focuses on governmental responses and public opinion toward climate crises and local governance, examining how local contexts and institutions influence public policy and democratic representation.
 
 His most recent book, [_No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power_](https://andrewreeves.org/research/no-blank-check-the-origins-and-consequences-of-public-antipathy-towards-presidential-power/) with [Jon C. Rogowski](https://voices.uchicago.edu/jrogowski/) was published in 2022 with Cambridge University Press ( [Amazon](https://www.amazon.com/Blank-Check-Consequences-Antipathy-Presidential/dp/1107174309/ref=sr_1_2?qid=1646002322&refinements=p_27%3AJon+C.+Rogowski&s=books&sr=1-2) | [CUP](https://www.cambridge.org/core/books/no-blank-check/0FE4E2FC0D017DC70566FDFE94B89007)). His first book, [_The Particularistic President: Executive Branch Politics and Political Inequality_](https://andrewreeves.org/research/the-particularistic-president-executive-branch-politics-and-political-inequality/) with [Douglas Kriner](http://blogs.cornell.edu/kriner/) is the winner of the 2016 Richard E. Neustadt Award ( [Amazon](https://www.amazon.com/Douglas-L-Kriner/dp/1107616816/) | [CUP](https://www.cambridge.org/core/books/particularistic-president/1C2686B436BCBFAB3D46EDBD7C2A17C3)). 

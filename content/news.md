@@ -13,6 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+* [ David Faris. October 14, 2024. "Swing-State Politics Is Rotting Our Brains and Harming Democracy." _Slate_](https://slate.com/news-and-politics/2024/10/us-presidential-election-swing-state-politics-harming-democracy.html)
+* [Tim Reid and Helen Coster. October 1, 2024. "Trump seeks to boost presidential bid in Hurricane Helene's wake, analysts say." _Reuters_](https://www.reuters.com/world/us/wake-hurricane-trump-seeks-boost-his-presidential-bid-2024-10-01/)
+* [Theo Burman. September 11, 2024. "Should Donald Trump Agree to Another Debate? Political Experts Weigh In." _Newsweek_](https://www.newsweek.com/donald-trump-next-debate-presidential-election-1951987)
 * [Andrew Reeves. June 25, 2024. "Opinion: Biden and Trump will talk big at the debate, but how much could either really do?" _The Los Angeles Times_](https://www.latimes.com/opinion/story/2024-06-25/biden-trump-debate-presidential-campaign)
 * [Roger McKinney. February 18, 2024. "Columbia's political, social climate influenced heavily by Mizzou" _Columbia Daily Tribune_](https://www.columbiatribune.com/story/news/politics/2024/02/18/columbia-political-social-climate-heavily-influenced-university-of-missouri/72588606007/)
 * [Diane Toroian Keaggy.  January 12, 2024. "Old research, new readers: A closer look at some of the most-read research stories from years past" _The Source_](https://source.wustl.edu/2024/01/old-research-new-readers/)

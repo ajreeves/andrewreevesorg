@@ -13,6 +13,12 @@ header:
   caption: ""
   image: ""
 ---
+* [ David Faris. October 14, 2024. "Swing-State Politics Is Rotting Our Brains and Harming Democracy." _Slate_](https://slate.com/news-and-politics/2024/10/us-presidential-election-swing-state-politics-harming-democracy.html)
+* [Tim Reid and Helen Coster. October 1, 2024. "Trump seeks to boost presidential bid in Hurricane Helene's wake, analysts say." _Reuters_](https://www.reuters.com/world/us/wake-hurricane-trump-seeks-boost-his-presidential-bid-2024-10-01/)
+* [Theo Burman. September 11, 2024. "Should Donald Trump Agree to Another Debate? Political Experts Weigh In." _Newsweek_](https://www.newsweek.com/donald-trump-next-debate-presidential-election-1951987)
+* [Andrew Reeves. June 25, 2024. "Opinion: Biden and Trump will talk big at the debate, but how much could either really do?" _The Los Angeles Times_](https://www.latimes.com/opinion/story/2024-06-25/biden-trump-debate-presidential-campaign)
+* [Roger McKinney. February 18, 2024. "Columbia's political, social climate influenced heavily by Mizzou" _Columbia Daily Tribune_](https://www.columbiatribune.com/story/news/politics/2024/02/18/columbia-political-social-climate-heavily-influenced-university-of-missouri/72588606007/)
+* [Diane Toroian Keaggy.  January 12, 2024. "Old research, new readers: A closer look at some of the most-read research stories from years past" _The Source_](https://source.wustl.edu/2024/01/old-research-new-readers/)
 * [Shawn Ballard. October 5, 2022. "When presidential power meets public opinion." _The Ampersand_](https://artsci.wustl.edu/ampersand/when-presidential-power-meets-public-opinion)
 * [Jorge Agobian, and Patsy Widakuswara. October 5, 2022. "Biden Surveys Hurricane Damage in Florida Amid Tension With Governor." _Voice of America_](https://www.voanews.com/a/biden-to-survey-hurricane-ian-damage-in-florida/6776635.html)
 * [Domenico Montanaro. October 1, 2022. "How local and national leaders are tested by major natural disasters." _NPR_.](https://www.npr.org/2022/10/01/1126239235/politics-natural-disasters-desantis-hurricane-ian)
@@ -21,6 +27,7 @@ header:
 * [Charles Stewart III. May 28, 2022. "Republicans want to hand-count paper ballots. That’s less accurate." _Washington Post's the Monkeycage Blog_](https://www.washingtonpost.com/politics/2022/05/26/republicans-democrats-midterms-elections-ballot-counting/)
 * [Eleanor Clift. December 14, 2021. "Devastating Tornadoes Give Biden One Last Chance to Bridge Red-Blue Rift." _The Daily Beast_.](https://www.thedailybeast.com/devastating-tornadoes-give-biden-one-last-chance-to-bridge-red-blue-rift)
 * [Lawrence Lessig. December 10, 2021. "Why the US Is a Failed Democratic State" _New York Review of Books_.](https://www.nybooks.com/daily/2021/12/10/why-the-us-is-a-failed-democratic-state/)
+* [Sara Savat. October 21, 2021. Partisanship, the economy and presidential accountability. _The Source_](https://source.wustl.edu/2021/10/partisanship-the-economy-and-presidential-accountability/)
 * [Saranac Hale Spencer. October 7, 2021. "SciCheck’s COVID-19/Vaccination Project." _FactCheck.org_.](https://www.factcheck.org/2021/10/scicheck-white-house-and-hhs-employees-arent-exempt-from-vaccine-mandate/)
 * [David Ryan Miller and Andrew Reeves. June 16, 2021."Biden’s Supreme Court commission probably won’t sway public opinion." _The Conversation_.](https://theconversation.com/bidens-supreme-court-commission-probably-wont-sway-public-opinion-159658)
 * [Sarah Savat. April 8, 2021. "Executive orders come ‘at great cost’." _The Source._](https://source.wustl.edu/2021/04/washu-expert-executive-orders-come-at-great-cost/)
@@ -36,8 +43,8 @@ header:
 *   [Nicholas G. Napolio. March 19, 2020\. "The CDC isn’t favoring Trump states with coronavirus spending." _Washington Post._](https://www.washingtonpost.com/politics/2020/03/19/cdc-isnt-favoring-trump-states-with-coronavirus-spending/)
 *   [Michael Tesler. March 9, 2020\. "3 ways the coronavirus could end Trump’s presidency." _Washington Post._](https://www.washingtonpost.com/politics/2020/03/09/3-ways-coronavirus-could-end-trumps-presidency/)
 *   [Joe Cortright.  "The Week Observed, February 28, 2020." ](http://cityobservatory.org/the-week-observed-2020_feb28/)_The City Commentary._
-*   [Von Philipp Nagels. February 25, 2020\.  "Die Nähe zu einer Stadt beeinflusst die politische Gesinnung." _Die Welt._](https://mail.google.com/mail/u/0/#search/german+sara/FMfcgxwGDWsqqZZLDCxxXlPSzfcTnXfk)
-*   [James G. Gimpel, Nathan Lovin, Bryant Moy and Andrew Reeves, "Distance and Density, Not Just Demographics, Affect Urban-Rural Vote." _Daily Yonder._](https://www.dailyyonder.com/distance-and-density-not-just-demographics-affect-urban-rural-vote/2020/02/24/)
+*   [Von Philipp Nagels. February 25, 2020\.  "Die Nähe zu einer Stadt beeinflusst die politische Gesinnung." _Die Welt._](https://mail.google.com/mail/u/0/#search/german+sara/FMfcgxwGDWsqqZZLDCxxXlPSzfcTnXfk)
+*   [James G. Gimpel, Nathan Lovin, Bryant Moy and Andrew Reeves, "Distance and Density, Not Just Demographics, Affect Urban-Rural Vote." _Daily Yonder._](https://www.dailyyonder.com/distance-and-density-not-just-demographics-affect-urban-rural-vote/2020/02/24/)
 *   [Sara Savat. February 18, 2020\. The divide between us: Urban-rural political differences rooted in geography. _The Source._](https://source.wustl.edu/2020/02/the-divide-between-us-urban-rural-political-differences-rooted-in-geography/)
 *   [Brett Nelson. December, 30, 2019\. "Geolocation data show black voters wait longer to vote." _Chicago Booth Review._](https://review.chicagobooth.edu/economics/2019/article/geolocation-data-show-black-voters-wait-longer-vote)
 *   J[.D. Tuccille. December 5, 2019\. "Republicans Are Learning to Love Unconstrained Executive Power." _Reason._](https://reason.com/2019/12/05/republicans-are-learning-to-love-unconstrained-executive-power-and-so-are-democrats/)
@@ -51,7 +58,7 @@ header:
 *   [Amber Phillips. August 28, 2017\. "Mixing politics and hurricanes? Trump might want to tread carefully," _Washington Post_.](https://www.washingtonpost.com/news/the-fix/wp/2017/08/28/mixing-politics-and-hurricanes-trump-might-want-to-tread-carefully/?utm_term=.a89fdfdff750)
 *   [Andrew Rudalevige. January, 20, 2017\. Every president is a minority leader. Trump will be, too. _Washington Post._](https://www.washingtonpost.com/news/monkey-cage/wp/2017/01/20/every-president-is-a-minority-leader-trump-will-be-too/?utm_term=.6f60a9fb97ba)
 *   [Stephen Ansolabehere, Barry C. Burden, Kenneth R. Mayer, and Charles Stewart III. December 5, 2016\. "The Wisconsin recount may have a surprise in store after all," _Washington Post._](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/05/the-wisconsin-recount-may-have-a-surprise-in-store-after-all/)
-*   [Susan Milligan. September 30, 2016\. "Playing Games With a Disaster: Communities suffer as Congress feuds over emergency relief." _US News and World Report._](https://www.usnews.com/news/articles/2016-09-30/the-partisan-politics-of-disaster-relief)
+*   [Susan Milligan. September 30, 2016\. "Playing Games With a Disaster: Communities suffer as Congress feuds over emergency relief." _US News and World Report._](https://www.usnews.com/news/articles/2016-09-30/the-partisan-politics-of-disaster-relief)
 *   [Molly E. Reynolds. May 18, 2016\. "What emergency Zika funding tells us about congressional dysfunction," FIXGOV: Making Government Work, _Brookings_.__](http://www.brookings.edu/blogs/fixgov/posts/2016/05/18-congress-zika-emergency-funding-reynolds)
 *   [Jeff Stein. February 5, 2016\. "We asked 6 political scientists if Bernie Sanders would have a shot in a general election," _Vox_.](http://www.vox.com/2016/2/5/10923304/bernie-sanders-general-election)
 *   [Jeff Stein. February 3, 2016\. "Americans want limits on their presidents — even the ones they voted for," _Vox_.](http://www.vox.com/2016/2/3/10899242/americans-limit-presidents)

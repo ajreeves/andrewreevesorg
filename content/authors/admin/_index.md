@@ -55,9 +55,6 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ajreeves.bsky.social
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/ajreeves
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xPSRkX4AAAAJ

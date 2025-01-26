@@ -52,6 +52,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'contact'  # For a direct email link, use "mailto:test@example.org".
+<<<<<<< HEAD
+=======
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/ajreeves
+>>>>>>> parent of f611b74 (Update _index.md)
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xPSRkX4AAAAJ
